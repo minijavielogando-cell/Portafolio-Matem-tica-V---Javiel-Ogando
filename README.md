@@ -1,5 +1,4 @@
 # Portafolio-Matem-tica-V---Javiel-Ogando
-[portafolio_javiel_ogando (1).html](https://github.com/user-attachments/files/26760123/portafolio_javiel_ogando.1.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
